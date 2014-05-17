@@ -1,0 +1,11 @@
+{
+  "name": "seoul256-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A clone of Junegunn Choi's Seoul256 vim theme",
+  "repository": "https://github.com/brutal-chaos/seoul256-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
